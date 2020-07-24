@@ -1,0 +1,805 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.074444,
+                    40.813611
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "New York Giants",
+                "Lat": 40.813611,
+                "Long": -74.074444,
+                "Stadium": "MetLife Stadium",
+                "Conference": "NFC",
+                "TotalCap": 199793067,
+                "Capacity": 82500,
+                "Surface": "UBU Sports Speed Series S5-M Synthetic Turf",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 4,
+                "SuperbowlAppearances": 5,
+                "Average2019Attendance": 74664
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.074444,
+                    40.813611
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "New York Jets",
+                "Lat": 40.813611,
+                "Long": -74.074444,
+                "Stadium": "MetLife Stadium",
+                "Conference": "AFC",
+                "TotalCap": 209438148,
+                "Capacity": 82500,
+                "Surface": "UBU Sports Speed Series S5-M Synthetic Turf",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 1,
+                "Average2019Attendance": 78523
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.062222,
+                    44.501389
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Green Bay Packers",
+                "Lat": 44.501389,
+                "Long": -88.062222,
+                "Stadium": "Lambeau Field",
+                "Conference": "NFC",
+                "TotalCap": 211413291,
+                "Capacity": 81441,
+                "Surface": "Desso GrassMaster",
+                "RoofType": "Open",
+                "SuperbowlWins": 4,
+                "SuperbowlAppearances": 5,
+                "Average2019Attendance": 77845
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.092778,
+                    32.747778
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Dallas Cowboys",
+                "Lat": 32.747778,
+                "Long": -97.092778,
+                "Stadium": "AT&T Stadium",
+                "Conference": "NFC",
+                "TotalCap": 227203235,
+                "Capacity": 80000,
+                "Surface": "Hellas Matrix Turf",
+                "RoofType": "Retractable",
+                "SuperbowlWins": 5,
+                "SuperbowlAppearances": 8,
+                "Average2019Attendance": 90929
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.864444,
+                    38.907778
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Washington Redskins",
+                "Lat": 38.907778,
+                "Long": -76.864444,
+                "Stadium": "FedEx Field",
+                "Conference": "NFC",
+                "TotalCap": 192055619,
+                "Capacity": 82000,
+                "Surface": "Bermuda grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 3,
+                "SuperbowlAppearances": 5,
+                "Average2019Attendance": 65488
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.483889,
+                    39.048889
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Kansas City Chiefs",
+                "Lat": 39.048889,
+                "Long": -94.483889,
+                "Stadium": "Arrowhead Stadium",
+                "Conference": "AFC",
+                "TotalCap": 237888000,
+                "Capacity": 76416,
+                "Surface": "Bermuda Grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 2,
+                "SuperbowlAppearances": 3,
+                "Average2019Attendance": 73465
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.02,
+                    39.743889
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Denver Broncos",
+                "Lat": 39.743889,
+                "Long": -105.02,
+                "Stadium": "Empower Field at Mile High",
+                "Conference": "AFC",
+                "TotalCap": 215307093,
+                "Capacity": 76125,
+                "Surface": "Kentucky bluegrass",
+                "RoofType": "Open",
+                "SuperbowlWins": 3,
+                "SuperbowlAppearances": 8,
+                "Average2019Attendance": 75937
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.238889,
+                    25.958056
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Miami Dolphins",
+                "Lat": 25.958056,
+                "Long": -80.238889,
+                "Stadium": "Hard Rock Stadium",
+                "Conference": "AFC",
+                "TotalCap": 211166872,
+                "Capacity": 65326,
+                "Surface": "Platinum TE Paspalum",
+                "RoofType": "Open",
+                "SuperbowlWins": 2,
+                "SuperbowlAppearances": 5,
+                "Average2019Attendance": 63067
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.852778,
+                    35.225833
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Carolina Panthers",
+                "Lat": 35.225833,
+                "Long": -80.852778,
+                "Stadium": "Bank of America Stadium",
+                "Conference": "NFC",
+                "TotalCap": 216449905,
+                "Capacity": 75523,
+                "Surface": "Bermuda grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 2,
+                "Average2019Attendance": 72220
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.081111,
+                    29.950833
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "New Orleans Saints",
+                "Lat": 29.950833,
+                "Long": -90.081111,
+                "Stadium": "Mercedes-Benz Superdome",
+                "Conference": "NFC",
+                "TotalCap": 212078049,
+                "Capacity": 73208,
+                "Surface": "FieldTurf Revolution 360",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 1,
+                "Average2019Attendance": 73082
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.699444,
+                    41.506111
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Cleveland Browns",
+                "Lat": 41.506111,
+                "Long": -81.699444,
+                "Stadium": "FirstEnergy Stadium",
+                "Conference": "AFC",
+                "TotalCap": 213364719,
+                "Capacity": 67895,
+                "Surface": "Kentucky bluegrass",
+                "RoofType": "Open",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 0,
+                "Average2019Attendance": 67431
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.786944,
+                    42.773611
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Buffalo Bills",
+                "Lat": 42.773611,
+                "Long": -78.786944,
+                "Stadium": "Ralph Wilson Stadium",
+                "Conference": "AFC",
+                "TotalCap": 225019871,
+                "Capacity": 71608,
+                "Surface": "A-Turf Titan 50",
+                "RoofType": "Open",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 4,
+                "Average2019Attendance": 68839
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.771389,
+                    36.166389
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Tennessee Titans",
+                "Lat": 36.166389,
+                "Long": -86.771389,
+                "Stadium": "Nissan Stadium",
+                "Conference": "AFC",
+                "TotalCap": 194536942,
+                "Capacity": 69143,
+                "Surface": "Bermuda grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 1,
+                "Average2019Attendance": 64509
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.26344,
+                    42.090944
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "New England Patriots",
+                "Lat": 42.090944,
+                "Long": -71.26344,
+                "Stadium": "Gillette Stadium",
+                "Conference": "AFC",
+                "TotalCap": 225774092,
+                "Capacity": 66829,
+                "Surface": "FieldTurf CORE",
+                "RoofType": "Open",
+                "SuperbowlWins": 6,
+                "SuperbowlAppearances": 11,
+                "Average2019Attendance": 65753
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1675,
+                    39.900833
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Philadelphia Eagles",
+                "Lat": 39.900833,
+                "Long": -75.1675,
+                "Stadium": "Lincoln Financial Field",
+                "Conference": "NFC",
+                "TotalCap": 218383435,
+                "Capacity": 69596,
+                "Surface": "Desso GrassMaster",
+                "RoofType": "Open",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 3,
+                "Average2019Attendance": 69783
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.97,
+                    37.403
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "San Francisco 49ers",
+                "Lat": 37.403,
+                "Long": 121.97,
+                "Stadium": "Levis Stadium",
+                "Conference": "NFC",
+                "TotalCap": 216928583,
+                "Capacity": 68500,
+                "Surface": "Bermuda grass / Perennial Ryegrass mixture",
+                "RoofType": "Open",
+                "SuperbowlWins": 5,
+                "SuperbowlAppearances": 7,
+                "Average2019Attendance": 70305
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6375,
+                    30.323889
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Jacksonville Jaguars",
+                "Lat": 30.323889,
+                "Long": -81.6375,
+                "Stadium": "TIAA Bank Field",
+                "Conference": "AFC",
+                "TotalCap": 205927372,
+                "Capacity": 69132,
+                "Surface": "Bermuda grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 0,
+                "Average2019Attendance": 63085
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.331667,
+                    47.595278
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Seattle Seahawks",
+                "Lat": 47.595278,
+                "Long": -122.331667,
+                "Stadium": "CenturyLink Field",
+                "Conference": "NFC",
+                "TotalCap": 206882747,
+                "Capacity": 69000,
+                "Surface": "FieldTurf Revolution 360",
+                "RoofType": "Open",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 3,
+                "Average2019Attendance": 68990
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.503333,
+                    27.975833
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Tampa Bay Buccaneers",
+                "Lat": 27.975833,
+                "Long": -82.503333,
+                "Stadium": "Raymond James Stadium",
+                "Conference": "NFC",
+                "TotalCap": 217006291,
+                "Capacity": 65890,
+                "Surface": "Bermuda grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 1,
+                "Average2019Attendance": 51898
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.516039,
+                    39.095444
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Cincinnati Bengals",
+                "Lat": 39.095444,
+                "Long": -84.516039,
+                "Stadium": "Paul Brown Stadium",
+                "Conference": "AFC",
+                "TotalCap": 200493622,
+                "Capacity": 65515,
+                "Surface": "UBU Speed Series S5-M Synthetic Turf",
+                "RoofType": "Open",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 2,
+                "Average2019Attendance": 47179
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.015833,
+                    40.446667
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Pittsburgh Steelers",
+                "Lat": 40.446667,
+                "Long": -80.015833,
+                "Stadium": "Heinz Field",
+                "Conference": "AFC",
+                "TotalCap": 215352298,
+                "Capacity": 68400,
+                "Surface": "Kentucky bluegrass",
+                "RoofType": "Open",
+                "SuperbowlWins": 6,
+                "SuperbowlAppearances": 8,
+                "Average2019Attendance": 62237
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.045556,
+                    42.34
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Detroit Lions",
+                "Lat": 42.34,
+                "Long": -83.045556,
+                "Stadium": "Ford Field",
+                "Conference": "NFC",
+                "TotalCap": 208554617,
+                "Capacity": 65000,
+                "Surface": "FieldTurf Classic HD",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 0,
+                "Average2019Attendance": 61342
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.2625,
+                    33.5275
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Arizona Cardinals",
+                "Lat": 33.5275,
+                "Long": -112.2625,
+                "Stadium": "State Farm Stadium",
+                "Conference": "NFC",
+                "TotalCap": 210127442,
+                "Capacity": 63400,
+                "Surface": "Bermuda grass",
+                "RoofType": "Retractable",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 1,
+                "Average2019Attendance": 61323
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.163806,
+                    39.760056
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Indianapolis Colts",
+                "Lat": 39.760056,
+                "Long": -86.163806,
+                "Stadium": "Lucas Oil Stadium",
+                "Conference": "AFC",
+                "TotalCap": 241446515,
+                "Capacity": 67000,
+                "Surface": "Shaw Sports Momentum Pro",
+                "RoofType": "Retractable",
+                "SuperbowlWins": 2,
+                "SuperbowlAppearances": 4,
+                "Average2019Attendance": 61110
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1833,
+                    36.0909
+                ]
+            },
+            "properties": {
+                "League": "NFL",
+                "Team": "Las Vegas Raiders",
+                "Lat": 36.0909,
+                "Long": -115.1833,
+                "Stadium": "Allegiant Stadium",
+                "Conference": "AFC",
+                "TotalCap": 219329193,
+                "Capacity": 65000,
+                "Surface": "Grass",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 3,
+                "SuperbowlAppearances": 5,
+                "Average2019Attendance": 52549
+            },
+            "type": "Feature"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "League": "NFL",
+                "Team": "Atlanta Falcons",
+                "Lat": 33.7552,
+                "Long": -84.4009,
+                "Stadium": "Mercedes-Benz Stadium",
+                "Conference": "NFC",
+                "TotalCap": 211593271,
+                "Capacity": 71000,
+                "Surface": "FieldTurf Revolution",
+                "RoofType": "Retractable",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 2,
+                "Average2019Attendance": 71601
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40092086791992,
+                    33.755173286674825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "League": "NFL",
+                "Team": "Houston Texans",
+                "Lat": 29.6849,
+                "Long": -95.4109,
+                "Stadium": "NRG Stadium",
+                "Conference": "AFC",
+                "TotalCap": 219686196,
+                "Capacity": 72220,
+                "Surface": "Hellas Matrix Turf",
+                "RoofType": "Retractable",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 0,
+                "Average2019Attendance": 71793
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.41093826293944,
+                    29.684883725361402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "League": "NFL",
+                "Team": "Baltimore Ravens",
+                "Lat": 39.2781,
+                "Long": -76.6227,
+                "Stadium": "M&T Bank Stadium",
+                "Conference": "AFC",
+                "TotalCap": 213612359,
+                "Capacity": 71008,
+                "Surface": "Bermuda grass",
+                "RoofType": "Open",
+                "SuperbowlWins": 2,
+                "SuperbowlAppearances": 2,
+                "Average2019Attendance": 70627
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62272930145264,
+                    39.2781117405251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "League": "NFL",
+                "Team": "Los Angeles Chargers",
+                "Lat": 33.9534,
+                "Long": -118.3387,
+                "Stadium": "SoFi Stadium",
+                "Conference": "AFC",
+                "TotalCap": 200089220,
+                "Capacity": 70240,
+                "Surface": "Artificial turf",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 1,
+                "Average2019Attendance": 31750
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3387,
+                    33.9534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Lat": 33.9534,
+                "Long": -118.3387,
+                "Stadium": "SoFi Stadium",
+                "Team": "Los Angeles Rams",
+                "League": "NFL",
+                "Conference": "NFC",
+                "TotalCap": 216151746,
+                "Capacity": 70240,
+                "Surface": "Artificial turf",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 4,
+                "Average2019Attendance": 71229
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3387,
+                    33.9534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "League": "NFL",
+                "Team": "Chicago Bears",
+                "Lat": 41.8623,
+                "Long": -87.6167,
+                "Stadium": "Soldier Field",
+                "Conference": "NFC",
+                "TotalCap": 220359972,
+                "Capacity": 61500,
+                "Surface": "Kentucky bluegrass",
+                "RoofType": "Open",
+                "SuperbowlWins": 1,
+                "SuperbowlAppearances": 2,
+                "Average2019Attendance": 61916
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61673927307127,
+                    41.86230603839001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "League": "NFL",
+                "Team": "Minnesota Vikings",
+                "Lat": 44.9735,
+                "Long": -93.2575,
+                "Stadium": "U.S. Bank Stadium",
+                "Conference": "NFC",
+                "TotalCap": 198452131,
+                "Capacity": 66655,
+                "Surface": "UBU Speed Series S5-M Synthetic Turf",
+                "RoofType": "Fixed",
+                "SuperbowlWins": 0,
+                "SuperbowlAppearances": 4,
+                "Average2019Attendance": 66849
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.25753211975098,
+                    44.973527022296835
+                ]
+            }
+        }
+    ]
+}
